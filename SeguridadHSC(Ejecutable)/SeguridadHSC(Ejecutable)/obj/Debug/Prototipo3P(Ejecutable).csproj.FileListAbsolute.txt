@@ -1,0 +1,50 @@
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe.config
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll.config
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC_Ejecutable_.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\Examen Final ASII\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\SeguridadHSC(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Prototipo3P(Ejecutable).exe.config
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Prototipo3P(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Prototipo3P(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll.config
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P_Ejecutable_.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\Prototipo3P\Prototipo3P(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Prototipo3P(Ejecutable).exe.config
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Prototipo3P(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\Prototipo3P(Ejecutable).pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.dll
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.dll
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaVista.dll.config
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaControlador.pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\bin\Debug\CapaModelo.pdb
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.AssemblyReference.cache
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P_Ejecutable_.Properties.Resources.resources
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.GenerateResource.cache
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.CoreCompileInputs.cache
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).csproj.CopyComplete
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).exe
+C:\Users\GiancarloS\Desktop\Prototipo3P\SeguridadHSC(Ejecutable)\SeguridadHSC(Ejecutable)\obj\Debug\Prototipo3P(Ejecutable).pdb
